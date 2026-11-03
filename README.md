@@ -11,6 +11,10 @@ Elle tourne dans n'importe quel terminal, y compris à travers SSH, et ne
 consomme aucun token : elle ne fait que lire ce que Claude Code écrit déjà
 sur la machine.
 
+<p align="center">
+  <img src="docs/capture.png" alt="Ariane en train de suivre une session de Claude Code" width="520">
+</p>
+
 ## Ce qu'on voit
 
 - **Bandeau** : titre de la session, modèle, durée, total de tokens, dernière
